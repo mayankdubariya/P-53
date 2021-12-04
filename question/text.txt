@@ -1,1 +1,118 @@
+Let's Get Started, Coder!!
+Fill the following Document
+__________________________________________________________________________
+
+1. Which one of the following is an Imperative Language?
+
+1.	HTML
+2.	CSS
+3.	Java Script
+
+Answer: 	3
+
+
+2. Which one of the following is a Declarative Language?
+
+1.	HTML
+2.	CSS
+3.	Java Script
+
+Answer:        1
+
+
+3. Name two uses of a DIV tag?
+
+Answer:
+
+Text and image
+
+
+
+
+
+
+4. What is the difference between relative positioning and absolute positioning in HTML?
+
+Answer: 
+
+position: relative places an element relative to its current position without changing the layout around it 
+position: absolute places an element relative to its parent's position and changing the layout around it.
+
+
+
+
+5. What is the use of opacity in CSS?
+
+Answer: 
+
+to specify the transparency of an element.
+
+
+
+
+6. Which is the programming language used in the React Native Framework?
+
+Answer: 
+
+JavaScript
+
+
+
+7. Which online editor are we using for creating our apps in React Native Framework?
+
+Answer: 
+
+Visual Studio Code
+
+
+
+8. Write the steps to test your first designed app in the online editor on mobile.
+
+Answer:
+
+List of tasks the student can come up with: 
+● Task 1: Create a button which when pressed plays the sound of a buzzer. 
+● Task 2: Create a home screen which allows the user to pick their team.
+● Task 3: Navigate the user from the home screen to the buzzer screen. 
+● Task 4: Listen to which team is pressing the button first and store it in a database. 
+● Task 5: Display the teams in an order in which they pressed the buttons.
+
+
+
+
+
+
+
+9. What is the use of the render function in React Native Framework?
+
+Answer: 
+
+to display the specified HTML code inside the specified HTML element
+
+
+
+10. What is the use of the return function in the React Native Framework?
+
+Answer:
+ what you want to see on the screen
+
+
+
+
+
+
+11. What are the various components in your first app that you designed?
+
+Answer: 
+Text, Button and View
+
+
+
+
+
+
+
+
+
+
 
